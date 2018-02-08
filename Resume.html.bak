@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <link type="text/css" rel="stylesheet" href="resume.css"/>
+  <title></title> 
+ </head>
+ <body>
+    <div id="header">
+	<p id="name">SAMBIT PATRO</p>
+    </div>
+	<div class="left">
+    </div>
+	<div class="right">
+            <p><span id="details">Email: sambitpatro.patro@gmail.com</span></p>
+			<p><span id="details">Contact No: +91-7406664431</span></p>
+			<div class="right">
+            <h3>ABOUT ME</h3>
+			<p>
+            <ul>
+                <li>To use my skills in the best possible way for achieving the company’s goals.</li>
+			</ul>
+			</p>
+			<h3>SUMMERY</h3>
+			<p>
+            <ul>
+                <li>Advanced programming knowledge using <span id="make_bold">C/C++/JAVA language/HTML/CSS/Java Script</span>.</li>
+                <li>Good Database knowledge using <span id="make_bold">Oracle</span>.</li>
+                <li>Well Versed of <span id="make_bold">Operating Systems, Networking conepts and Databases</span>.</li>
+                <li>Strong knowledge of <span id="make_bold">Data structures and Algorithms</span>.</li>
+				<li>Excellent <span id="make_bold">Verbal and written Communication Skills</span>.</li>
+				</ul>
+            </p>
+			<h3>Educational Qualifications</h3>
+            <table>
+                <tr id="heading">
+                    <td>Course</td>
+                    <td>Passout Year</td>
+                    <td>College / Institute</td>
+                    <td>Mark %</td>
+                </tr>
+                <tr>
+                    <td>B.Tech(CSE)</td>
+                    <td>2015</td>
+                    <td>PMEC BERHAMPUR</td>
+                    <td>62%</td>
+                </tr>
+                <tr>
+                    <td>CHSE(12TH)</td>
+                    <td>2010</td>
+                    <td>DAV JR COLLEGE, KORAPUT</td>
+                    <td>71%</td>
+                </tr>
+                <tr>
+                    <td>BSE(10TH)</td>
+                    <td>2008</td>
+                    <td>POLICE HIGH SCHOOL, KORAPUT</td>
+                    <td>83%</td>
+                </tr>
+            </table>
+			<h3>Independent Courses</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">HTML & CSS for Beginners – Web Fundamentals</span> – Javatpoint.com</li>
+                <li>
+                <span id="course-name">JavaScript – Programming Basics</span> - Javatpoint.com</li>
+                <li>
+                <span id="course-name">Core Java(J2SE), Advanced Java(J2EE)</span> - Durgasoft, Hyderabad</li>
+            </ul>
+			<h3>Technical Skills</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Operating Systems:</span><span id="make_bold">Windows XP, Windows 7(Ultimate), Windows Vista, Windows 8, Windows 10</span></li>
+                <li>
+                <span id="course-name">Programming Skills:</span><span id="make_bold">J2SE, J2EE, HTML, CSS, Python, JavaScript, C and C++</span></li>
+				<li>
+                <span id="course-name">Database:</span><span id="make_bold">Oracle 11g</span></li>
+				</ul>
+            </p>
+            <h3>Other Skills</h3>
+			<p>
+            <ul>
+                <li>Flexible to work and willing to be relocated when needed.</li>
+                <li>Work quickly and accurately in all environments.</li>
+                <li>Competent, eager and willing to learn new things.</li>
+                <li>Quick problem Solving Ability.</li>
+				</ul>
+            </p>
+			<h3>Hobbies</h3>
+			<p>
+            <ul>
+                <li>Cooking(Good at making Chicken Dum Biriyani)</li>
+                <li>Internet surfing</li>
+                <li>Listening Music(Kishor Kumar, KK, Mohammad Rafi, Kumar Sanu, Sonu Nigam),Like to sing when alone</li>
+				<li>Watching Cricket(Modern Era Cricket)</li>
+			</ul>
+			</p>
+			<h3>College Projects</h3>
+			<p>
+            <ul>
+                <li><span id="course-name">Major Project:</span>Online FIR Registration Sysytem</li>
+                <li><span id="course-name">Minor Project:</span>Online Banking</li>
+				</ul>
+			</p>
+			<h3>Personal Details</h3>
+			<p>
+            <ul>
+                <li><span id="course-name">Name:</span>Sambit Patro</li>
+                <li><span id="course-name">Father's Name:</span>Madhab Patro</li>
+				<li><span id="course-name">Mother's Name:</span>Bishnu Priya Gantayet</li>
+                <li><span id="course-name">Date Of Birth:</span>10th September 1992</li>
+				<li><span id="course-name">Language:</span>Odia, Hindi, English</li>
+                <li><span id="course-name">Maritial Status:</span>Single</li>
+				<li><span id="course-name">>Nationality:</span>Indian</li>
+                <li><span id="course-name">Permanent Address:</span>Ashok Nagar,
+   											 Near B.Ed College, Koraput,
+											 Odisha, 764020</li>
+				
+										
+				</ul>
+			</p>
+			<h3>Declaration</h3>
+            <p>
+            I Sambit Patro, S/O Madhab Patro  declare that all the information given above is correct up to my knowledge, for any discrepancy with the above information, I am completely responsible.</p>
+			<div id="sam">
+			<p><span id="course-name">Name:</span> Sambit Patro  </p>
+            <a ><p><span id="course-name">Place:</span>Banglore</p></a>
+			</div>
+			<div class="left">
+			</div>
+			<div id="footer"></div>
+
+  
+ </body>
+</html>
